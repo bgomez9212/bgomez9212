@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bgomez9212@gmail.com**
 
-- ⚡ Fun fact **I spending time with my two cats and disc golfing.**
+- ⚡ Fun fact **I enjoy spending time with my two cats, cooking, and disc golfing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
