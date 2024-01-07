@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Brandon Gomez</h1>
 <h3 align="center">A fullstack developer from the rainy city of Seattle</h3>
 
-- 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineMobile)
+- 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineRedux)
 
 - 🌱 I’m currently learning **React Native, Firebase, and TypeScript**
 
