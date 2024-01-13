@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineRedux)
 
-- 🌱 I’m currently learning **React Tailwind, Firebase, and TypeScript**
+- 🌱 I’m currently learning **Tailwind, Firebase, and TypeScript**
 
 - 💬 Ask me about **React, JavaScript, Vite**
 
