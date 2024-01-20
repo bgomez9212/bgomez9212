@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Brandon Gomez</h1>
-<h3 align="center">A fullstack developer from the rainy city of Seattle</h3>
+<h3 align="center">A fullstack developer from the rainy city of Seattle, currently living in the "Biggest Little City"</h3>
 
 - 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineRedux)
 
