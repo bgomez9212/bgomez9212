@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineRedux)
 
-- 🌱 I’m currently learning **Tailwind, Firebase, and TypeScript**
+- 🌱 I’m currently learning: **Tailwind, Firebase, React-Native and TypeScript**
 
-- 💬 Ask me about **React, JavaScript, Vite**
+- 💬 Ask me about: **React, JavaScript, Vite**
 
-- 📫 How to reach me **bgomez9212@gmail.com**
+- 📫 How to reach me: **bgomez9212@gmail.com**
 
-- ⚡ Fun fact **I enjoy spending time with my two cats, cooking, and disc golfing.**
+- ⚡ About me:**I enjoy spending time with my two cats, cooking, and disc golfing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
