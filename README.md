@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Brandon Gomez</h1>
 <h3 align="center">A fullstack developer from the rainy city of Seattle, currently living in the "Biggest Little City"</h3>
 
-- 🔭 I’m currently working on [MealMachine](https://github.com/bgomez9212/MealMachineRedux)
+- 🔭 I’m currently working on [digitalNotebook](https://github.com/bgomez9212/digitalNotebook)
 
 - 🌱 I’m currently learning: **Tailwind, Firebase, React-Native and TypeScript**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **bgomez9212@gmail.com**
 
-- ⚡ About me:**I enjoy spending time with my two cats, cooking, and disc golfing.**
+- ⚡ About me: **I enjoy spending time with my two cats, cooking, and disc golfing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
