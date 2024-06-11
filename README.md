@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Brandon Gomez</h1>
 <h3 align="center">A fullstack developer from the rainy city of Seattle, currently living in the "Biggest Little City"</h3>
 
-- 🔭 I’m currently working on [digitalNotebook](https://github.com/bgomez9212/digitalNotebook)
+- 🔭 I’m currently working on [digitalNotebook](https://github.com/bgomez9212/digitalNotebook): a React Native application allowing users to grade professional wrestling matches.
 
 - 🌱 I’m currently learning: **Tailwind, Firebase, React-Native and TypeScript**
 
